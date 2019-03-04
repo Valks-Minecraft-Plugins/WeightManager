@@ -1,0 +1,5 @@
+name: WeightManager
+main: com.weightmanager.WeightManager
+author: valkyrienyanko
+version: 1.0
+api-version: 1.13
